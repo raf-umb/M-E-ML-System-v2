@@ -1,0 +1,6 @@
+project_id,project_name,project_address,budget,staff_count,region_risk_index,activity_completion_rate,project_success,latitude,longitude
+1,Water Supply Rehab,Barangay San Isidro,1200000,10,6.5,75,1,14.5995,120.9842
+2,Livelihood Support,Barangay Mabuhay,800000,6,3.2,60,0,13.4113,123.2394
+3,School Repair,Barangay Kalayaan,500000,4,4.1,90,1,8.4542,124.6319
+4,Health Outreach,Barangay Bagong Pag-asa,300000,3,5.0,40,0,10.3157,123.8854
+5,Farm Irrigation,Barangay Maligaya,950000,7,7.8,82,1,12.8797,121.7740
